@@ -7,3 +7,6 @@
 # newapp_ibm_payload_scoring.py - testing IBM 
 # Project Video Drive Link:
 # Feedback Video Drive Link: https://drive.google.com/file/d/1Xebzl_n9_AC5-JuNYmOzi6nw0DxIQKSc/view?usp=sharing
+#Project PPT Link: https://docs.google.com/presentation/d/1dJKCmVPcbWu6cGUV-d6l_LfBQtaGzCBH/edit?usp=sharing&ouid=116523492271058748915&rtpof=true&sd=true
+#Zoho Document link: https://workdrive.zohoexternal.com/writer/open/4s7lh6294552bc8de4badaf6daa907b923c6d?authId=%7B%22linkId%22%3A%225k2wAp9Wbkv-LYmlU%22%7D
+#Zoho Password: ybZrOgB
