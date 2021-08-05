@@ -5,3 +5,5 @@
 # mainmodel - complete code 
 # app.py - main app
 # newapp_ibm_payload_scoring.py - testing IBM 
+# Project Video Drive Link:
+# Feedback Video Drive Link: https://drive.google.com/file/d/1Xebzl_n9_AC5-JuNYmOzi6nw0DxIQKSc/view?usp=sharing
